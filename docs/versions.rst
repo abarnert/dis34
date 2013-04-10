@@ -2,6 +2,9 @@
 Version History
 ==========
 
+0.2.1
+    * 2.x fix for code/bc/etc. info.
+
 0.2
     * 2.x backport (starting with 3to2, but lots of manual work
       required, and test script is adapted from stdlib dis instead of

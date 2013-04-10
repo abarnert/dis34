@@ -17,7 +17,7 @@ else:
 
 setup(
     name='dis34',
-    version='0.2',
+    version='0.2.1',
     description='Backport of new dis module from 3.4.',
     long_description=(open('README.rst').read() + '\n\n' +
                       open('docs/dis34.rst').read() + '\n\n' +
